@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Vani-portfolio/static/css/main.f5d898a7.css",
+    "main.js": "/Vani-portfolio/static/js/main.c94d05a2.js",
+    "static/js/453.70cd994d.chunk.js": "/Vani-portfolio/static/js/453.70cd994d.chunk.js",
+    "static/media/user.jpeg": "/Vani-portfolio/static/media/user.8b6b27c4b32cf84296cd.jpeg",
+    "static/media/logo.svg": "/Vani-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Vani-portfolio/index.html",
+    "main.f5d898a7.css.map": "/Vani-portfolio/static/css/main.f5d898a7.css.map",
+    "main.c94d05a2.js.map": "/Vani-portfolio/static/js/main.c94d05a2.js.map",
+    "453.70cd994d.chunk.js.map": "/Vani-portfolio/static/js/453.70cd994d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5d898a7.css",
+    "static/js/main.c94d05a2.js"
+  ]
+}
